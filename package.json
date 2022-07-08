@@ -1,0 +1,15 @@
+{
+  "name": "perceptron",
+  "version": "1.0.0",
+  "description": "creating a perceptron for ML studies",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc && parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.6.2",
+    "typescript": "^4.7.4"
+  }
+}
